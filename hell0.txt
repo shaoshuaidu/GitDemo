@@ -20,3 +20,4 @@ hello dushaoshuai hello git!master test
 hello dushaoshuai hello git!hot-fix test
 111
 ssh测试
+ssh push测试
